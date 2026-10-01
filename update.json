@@ -1,11 +1,11 @@
 {
-  "version": "1.0.1",
+  "version": "1.0.2",
   "date": "2026-10-01",
   "notes": {
-    "ru": "- Режим Xray TUN включён по умолчанию.\n- Режимы «Прокси» и «Xray TUN» включаются независимо на главном экране и в трее.\n- Добавлены настройки типа DNS для TUN.\n- Уровень логов ядра перенесён на экран логов.",
-    "en": "- Xray TUN is the default mode.\n- Proxy and Xray TUN modes are toggled independently on the main screen and in the tray.\n- Added DNS type settings for TUN.\n- The core log level moved to the logs screen."
+    "ru": "- Добавлен редактор конфигурации сервера и контекстное меню сервера.\n- Выровнены размеры элементов интерфейса.\n- Добавлена плавная прокрутка в списках и меню в трее.\n- Исправлены артефакты при изменении размера окна и открытии меню в трее.\n- Добавлены настройки резолвинга сервера, запуска в свёрнутом режиме и DNS для TUN.\n- Добавлен выбор предпочитаемого типа IP.\n- Исправлена работа TUN одновременно с другими VPN.",
+    "en": "- Added the server config editor and the server context menu.\n- Aligned interface element sizes.\n- Added smooth scrolling in lists and the tray menu.\n- Fixed artifacts when resizing the window and opening the tray menu.\n- Added server resolving, start minimized and DNS for TUN settings.\n- Added preferred IP type selection.\n- Fixed TUN working alongside other VPNs."
   },
   "file": "installer/LimCore-Setup.exe",
-  "size": 70426622,
-  "sha256": "5b4588afd7176cc5467da39747261816af838271865b4a1bb6362a20d0c82eb0"
+  "size": 70481880,
+  "sha256": "50c72cf846d17a5d8ff2004d03736f8fa71076ecd9ee79b8f2652f4485c67d4e"
 }
