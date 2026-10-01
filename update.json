@@ -1,11 +1,11 @@
 {
-  "version": "1.0.2",
+  "version": "1.0.3",
   "date": "2026-10-01",
   "notes": {
-    "ru": "- Добавлен редактор конфигурации сервера и контекстное меню сервера.\n- Выровнены размеры элементов интерфейса.\n- Добавлена плавная прокрутка в списках и меню в трее.\n- Исправлены артефакты при изменении размера окна и открытии меню в трее.\n- Добавлены настройки резолвинга сервера, запуска в свёрнутом режиме и DNS для TUN.\n- Добавлен выбор предпочитаемого типа IP.\n- Исправлена работа TUN одновременно с другими VPN.",
-    "en": "- Added the server config editor and the server context menu.\n- Aligned interface element sizes.\n- Added smooth scrolling in lists and the tray menu.\n- Fixed artifacts when resizing the window and opening the tray menu.\n- Added server resolving, start minimized and DNS for TUN settings.\n- Added preferred IP type selection.\n- Fixed TUN working alongside other VPNs."
+    "ru": "- Ускорено скачивание обновлений.\n- Уменьшен размер установщика.",
+    "en": "- Faster update downloads.\n- Smaller installer."
   },
   "file": "installer/LimCore-Setup.exe",
-  "size": 70481880,
-  "sha256": "50c72cf846d17a5d8ff2004d03736f8fa71076ecd9ee79b8f2652f4485c67d4e"
+  "size": 66864084,
+  "sha256": "d460502b18726eebd9d7cba263535ae3e2ebb8818a9ac652eb316731904081aa"
 }
