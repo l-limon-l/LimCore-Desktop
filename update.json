@@ -1,11 +1,11 @@
 {
-  "version": "1.0.0",
+  "version": "1.0.1",
   "date": "2026-10-01",
   "notes": {
-    "ru": "Первый релиз.\n\n- Подписки и серверы: VLESS, VMess, Trojan, Shadowsocks, JSON-конфиги Xray.\n- Режимы: системный прокси, TUN, смешанный, локальный прокси.\n- Служба LimCore для работы TUN без прав администратора.\n- Правила маршрутизации, прокси для приложений, фрагментация, мультиплексор.\n- Меню в трее, логи, статистика, автообновление.",
-    "en": "First release.\n\n- Subscriptions and servers: VLESS, VMess, Trojan, Shadowsocks, Xray JSON configs.\n- Modes: system proxy, TUN, mixed, local proxy.\n- LimCore service runs TUN without administrator rights.\n- Routing rules, per-app proxy, fragmentation, multiplexer.\n- Tray menu, logs, statistics, auto-update."
+    "ru": "- Режим Xray TUN включён по умолчанию.\n- Режимы «Прокси» и «Xray TUN» включаются независимо на главном экране и в трее.\n- Добавлены настройки типа DNS для TUN.\n- Уровень логов ядра перенесён на экран логов.",
+    "en": "- Xray TUN is the default mode.\n- Proxy and Xray TUN modes are toggled independently on the main screen and in the tray.\n- Added DNS type settings for TUN.\n- The core log level moved to the logs screen."
   },
   "file": "installer/LimCore-Setup.exe",
-  "size": 70417036,
-  "sha256": "cae2083c06c67288320ad69d95bfb53af755fec22ede208a2e98e56e2015d469"
+  "size": 70426622,
+  "sha256": "5b4588afd7176cc5467da39747261816af838271865b4a1bb6362a20d0c82eb0"
 }
