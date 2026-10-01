@@ -1,0 +1,11 @@
+{
+  "version": "1.0.0",
+  "date": "2026-10-01",
+  "notes": {
+    "ru": "Первый релиз.\n\n- Подписки и серверы: VLESS, VMess, Trojan, Shadowsocks, JSON-конфиги Xray.\n- Режимы: системный прокси, TUN, смешанный, локальный прокси.\n- Служба LimCore для работы TUN без прав администратора.\n- Правила маршрутизации, прокси для приложений, фрагментация, мультиплексор.\n- Меню в трее, логи, статистика, автообновление.",
+    "en": "First release.\n\n- Subscriptions and servers: VLESS, VMess, Trojan, Shadowsocks, Xray JSON configs.\n- Modes: system proxy, TUN, mixed, local proxy.\n- LimCore service runs TUN without administrator rights.\n- Routing rules, per-app proxy, fragmentation, multiplexer.\n- Tray menu, logs, statistics, auto-update."
+  },
+  "file": "installer/LimCore-Setup.exe",
+  "size": 70417036,
+  "sha256": "cae2083c06c67288320ad69d95bfb53af755fec22ede208a2e98e56e2015d469"
+}
