@@ -1,11 +1,11 @@
 {
-  "version": "2.0.1",
+  "version": "2.1.0",
   "date": "2026-10-02",
   "notes": {
-    "ru": "- Исправлено отображение флагов.\n- Исправлено направление анимации перехода назад в настройках.\n- Улучшена анимация меню в трее.\n- При удалении программы можно удалить подписки и настройки.",
-    "en": "- Fixed flag display.\n- Fixed the direction of the back animation in settings.\n- Improved the tray menu animation.\n- Uninstalling can remove subscriptions and settings."
+    "ru": "- Добавлено окно с изменениями при выходе новой версии.\n- Исправлено мерцание меню в трее.\n- Кнопка «Отключить» перенесена под подключённый сервер.\n- При отключённом VPN в трее отображается «Выберите сервер».\n- Обновления доступны сразу после выхода.",
+    "en": "- Added a window with the changes when a new version is out.\n- Fixed tray menu flickering.\n- Disconnect moved under the connected server.\n- While disconnected, the tray shows \"Choose a server\".\n- Updates are available as soon as they are released."
   },
   "file": "installer/LimCore-Setup.exe",
-  "size": 37722184,
-  "sha256": "9ea4d22a05c1eb36676ba0e5e93394d7547d02bdc1b2a6ba99ec9c7f406d311c"
+  "size": 37734196,
+  "sha256": "758335e23801cd2f1899f95001fb08ffb117460dee3cf750cc024c91aa366c8f"
 }
