@@ -1,11 +1,11 @@
 {
-  "version": "1.0.3",
-  "date": "2026-10-01",
+  "version": "2.0.0",
+  "date": "2026-10-02",
   "notes": {
-    "ru": "- Ускорено скачивание обновлений.\n- Уменьшен размер установщика.",
-    "en": "- Faster update downloads.\n- Smaller installer."
+    "ru": "- Приложение переписано на C++/Qt.\n- Трей: подписки, серверы, выбор режима и подключение из меню.\n- Прокси для приложений по пути или имени, geo-файлы профилей маршрутизации.\n- Настройка входящих подключений, уведомление об окончании подписки, новые флаги, анимации списка.",
+    "en": "- The app is rewritten in C++/Qt.\n- Tray: subscriptions, servers, mode selection and connecting from the menu.\n- Per-app proxy by path or name, geo files for routing profiles.\n- Inbound settings, subscription expiry notice, new flags, list animations."
   },
   "file": "installer/LimCore-Setup.exe",
-  "size": 66864084,
-  "sha256": "d460502b18726eebd9d7cba263535ae3e2ebb8818a9ac652eb316731904081aa"
+  "size": 37718948,
+  "sha256": "1537ecc8e4c3d39d7ff562f58ae36d6cb55ec13b069cfff686cf92a01f7a8587"
 }
