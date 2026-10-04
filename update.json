@@ -1,11 +1,11 @@
 {
-  "version": "2.1.4",
+  "version": "2.1.5",
   "date": "2026-10-04",
   "notes": {
-    "ru": "- Исправлена линия между заголовком подписки и серверами.",
-    "en": "- Fixed the line between the subscription header and its servers."
+    "ru": "- Подписка открывается и закрывается одной плавной анимацией, без сбоев при частых нажатиях.\n- Выделение выбранного сервера гаснет перед сворачиванием и появляется после разворачивания.\n- Новые всплывающие подсказки.\n- Кнопки в списке серверов выровнены, края списка скруглены.",
+    "en": "- A subscription opens and closes in one smooth animation, even with quick repeated clicks.\n- The selected server highlight fades before collapsing and returns after expanding.\n- New tooltips.\n- Aligned buttons in the server list, rounded list edges."
   },
   "file": "installer/LimCore-Setup.exe",
-  "size": 37747938,
-  "sha256": "43b57c18bdb30d80eb44ad33ff90b22e9562cda34d24e5c37b2dbc05280f0ed0"
+  "size": 37750512,
+  "sha256": "391a1d7a85a31cfd9ed8968b9b548c4403828ae25c1838de850ba50486c7155e"
 }
