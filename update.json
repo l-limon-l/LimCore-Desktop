@@ -1,11 +1,11 @@
 {
-  "version": "2.1.7",
+  "version": "2.2.0",
   "date": "2026-10-04",
   "notes": {
-    "ru": "- Новая рамка окна в стиле приложения.",
-    "en": "- New window frame in the app style."
+    "ru": "- Обновления устанавливаются автоматически.\n- После обновления подключение восстанавливается.\n- Новая рамка окна в стиле приложения.",
+    "en": "- Updates install automatically.\n- The connection is restored after an update.\n- New window frame in the app style."
   },
   "file": "installer/LimCore-Setup.exe",
-  "size": 37763031,
-  "sha256": "21caf784d8b013e2ebde0f7007383becb53f48fdeafd0e75d970fadc16a722ac"
+  "size": 37764149,
+  "sha256": "152bbe659e85cc1ea8798c892bbc3be08e921463d0224ec08835252751fa965c"
 }
