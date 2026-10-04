@@ -1,11 +1,11 @@
 {
-  "version": "2.1.6",
+  "version": "2.1.7",
   "date": "2026-10-04",
   "notes": {
-    "ru": "- Переходы между разделами следуют порядку в меню.\n- Обновлены вкладки логов.",
-    "en": "- Section transitions follow the menu order.\n- Updated log tabs."
+    "ru": "- Новая рамка окна в стиле приложения.",
+    "en": "- New window frame in the app style."
   },
   "file": "installer/LimCore-Setup.exe",
-  "size": 37755049,
-  "sha256": "43d5fcf0d9ac987ed1bc87276cb7b1d7fd3daf499ee91b5c566ff081ae4367df"
+  "size": 37763031,
+  "sha256": "21caf784d8b013e2ebde0f7007383becb53f48fdeafd0e75d970fadc16a722ac"
 }
