@@ -1,11 +1,11 @@
 {
-  "version": "2.1.5",
+  "version": "2.1.6",
   "date": "2026-10-04",
   "notes": {
-    "ru": "- Подписка открывается и закрывается одной плавной анимацией, без сбоев при частых нажатиях.\n- Выделение выбранного сервера гаснет перед сворачиванием и появляется после разворачивания.\n- Новые всплывающие подсказки.\n- Кнопки в списке серверов выровнены, края списка скруглены.",
-    "en": "- A subscription opens and closes in one smooth animation, even with quick repeated clicks.\n- The selected server highlight fades before collapsing and returns after expanding.\n- New tooltips.\n- Aligned buttons in the server list, rounded list edges."
+    "ru": "- Переходы между разделами следуют порядку в меню.\n- Обновлены вкладки логов.",
+    "en": "- Section transitions follow the menu order.\n- Updated log tabs."
   },
   "file": "installer/LimCore-Setup.exe",
-  "size": 37750512,
-  "sha256": "391a1d7a85a31cfd9ed8968b9b548c4403828ae25c1838de850ba50486c7155e"
+  "size": 37755049,
+  "sha256": "43d5fcf0d9ac987ed1bc87276cb7b1d7fd3daf499ee91b5c566ff081ae4367df"
 }
