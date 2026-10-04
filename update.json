@@ -1,11 +1,11 @@
 {
-  "version": "2.1.2",
+  "version": "2.1.3",
   "date": "2026-10-04",
   "notes": {
-    "ru": "- Новый дизайн: скруглённые панели и карточки.\n- Плавное сворачивание и разворачивание подписок.\n- Полоса прокрутки показывается только при прокрутке.\n- Исправлено обрезание кнопки в окне добавления конфигурации.",
-    "en": "- New design: rounded panels and cards.\n- Smooth collapsing and expanding of subscriptions.\n- The scroll bar shows only while scrolling.\n- Fixed a clipped button in the add configuration window."
+    "ru": "- Исправлена полоска под заголовком подписки при сворачивании и разворачивании.\n- Исправлен пустой промежуток при разворачивании подписки.",
+    "en": "- Fixed a stray line under the subscription header while collapsing and expanding.\n- Fixed an empty gap while expanding a subscription."
   },
   "file": "installer/LimCore-Setup.exe",
-  "size": 37750680,
-  "sha256": "fc4d8510572a7152f8f1a362857637b6a97d8d3a9674e4c1b4469d8471944cd9"
+  "size": 37746615,
+  "sha256": "0c24e1948bf952694092bf6c11e7f7abdb4445bea73ad4be025de9eca910f793"
 }
