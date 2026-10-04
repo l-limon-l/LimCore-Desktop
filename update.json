@@ -1,11 +1,11 @@
 {
-  "version": "2.1.3",
+  "version": "2.1.4",
   "date": "2026-10-04",
   "notes": {
-    "ru": "- Исправлена полоска под заголовком подписки при сворачивании и разворачивании.\n- Исправлен пустой промежуток при разворачивании подписки.",
-    "en": "- Fixed a stray line under the subscription header while collapsing and expanding.\n- Fixed an empty gap while expanding a subscription."
+    "ru": "- Исправлена линия между заголовком подписки и серверами.",
+    "en": "- Fixed the line between the subscription header and its servers."
   },
   "file": "installer/LimCore-Setup.exe",
-  "size": 37746615,
-  "sha256": "0c24e1948bf952694092bf6c11e7f7abdb4445bea73ad4be025de9eca910f793"
+  "size": 37747938,
+  "sha256": "43b57c18bdb30d80eb44ad33ff90b22e9562cda34d24e5c37b2dbc05280f0ed0"
 }
