@@ -1,11 +1,11 @@
 {
-  "version": "2.1.0",
-  "date": "2026-10-02",
+  "version": "2.1.1",
+  "date": "2026-10-04",
   "notes": {
-    "ru": "- Добавлено окно с изменениями при выходе новой версии.\n- Исправлено мерцание меню в трее.\n- Кнопка «Отключить» перенесена под подключённый сервер.\n- При отключённом VPN в трее отображается «Выберите сервер».\n- Обновления доступны сразу после выхода.",
-    "en": "- Added a window with the changes when a new version is out.\n- Fixed tray menu flickering.\n- Disconnect moved under the connected server.\n- While disconnected, the tray shows \"Choose a server\".\n- Updates are available as soon as they are released."
+    "ru": "- Исправлено закрытие меню выбора режима.\n- Обновлён выбор приложений для прокси: иконки, список процессов, выбор файла.\n- Подключение перезапускается автоматически после изменения настроек.",
+    "en": "- Fixed closing the mode menu.\n- Updated app selection for the proxy: icons, process list, file picker.\n- The connection restarts automatically after settings change."
   },
   "file": "installer/LimCore-Setup.exe",
-  "size": 37734196,
-  "sha256": "758335e23801cd2f1899f95001fb08ffb117460dee3cf750cc024c91aa366c8f"
+  "size": 37750630,
+  "sha256": "7cb63b940adf90151cbcf086e30390ed5d9a614a3edd2b7190f5c44e4741a15d"
 }
