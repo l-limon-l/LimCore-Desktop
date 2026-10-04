@@ -1,11 +1,11 @@
 {
-  "version": "2.1.1",
+  "version": "2.1.2",
   "date": "2026-10-04",
   "notes": {
-    "ru": "- Исправлено закрытие меню выбора режима.\n- Обновлён выбор приложений для прокси: иконки, список процессов, выбор файла.\n- Подключение перезапускается автоматически после изменения настроек.",
-    "en": "- Fixed closing the mode menu.\n- Updated app selection for the proxy: icons, process list, file picker.\n- The connection restarts automatically after settings change."
+    "ru": "- Новый дизайн: скруглённые панели и карточки.\n- Плавное сворачивание и разворачивание подписок.\n- Полоса прокрутки показывается только при прокрутке.\n- Исправлено обрезание кнопки в окне добавления конфигурации.",
+    "en": "- New design: rounded panels and cards.\n- Smooth collapsing and expanding of subscriptions.\n- The scroll bar shows only while scrolling.\n- Fixed a clipped button in the add configuration window."
   },
   "file": "installer/LimCore-Setup.exe",
-  "size": 37750630,
-  "sha256": "7cb63b940adf90151cbcf086e30390ed5d9a614a3edd2b7190f5c44e4741a15d"
+  "size": 37750680,
+  "sha256": "fc4d8510572a7152f8f1a362857637b6a97d8d3a9674e4c1b4469d8471944cd9"
 }
