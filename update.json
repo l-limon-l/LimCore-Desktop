@@ -1,11 +1,11 @@
 {
-  "version": "2.2.0",
-  "date": "2026-10-04",
+  "version": "2.3.0",
+  "date": "2026-10-07",
   "notes": {
-    "ru": "- Обновления устанавливаются автоматически.\n- После обновления подключение восстанавливается.\n- Новая рамка окна в стиле приложения.",
-    "en": "- Updates install automatically.\n- The connection is restored after an update.\n- New window frame in the app style."
+    "ru": "- Добавлена настройка цветов: палитры, градиенты и отдельные цвета для тёмной и светлой темы.\n- Палитры импортируются и экспортируются через буфер обмена.",
+    "en": "- Added color settings: palettes, gradients and single colors for the dark and light themes.\n- Palettes are imported and exported through the clipboard."
   },
   "file": "installer/LimCore-Setup.exe",
-  "size": 37764149,
-  "sha256": "152bbe659e85cc1ea8798c892bbc3be08e921463d0224ec08835252751fa965c"
+  "size": 37831233,
+  "sha256": "d8bdc9c78b35b9f258fe9156274852a5734dbb5fe10106af201bff0e32351989"
 }
