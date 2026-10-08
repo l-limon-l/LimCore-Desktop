@@ -1,11 +1,11 @@
 {
-  "version": "2.4.2",
+  "version": "2.4.3",
   "date": "2026-10-08",
   "notes": {
-    "ru": "- Плавные анимации установщика.\n- Градиент акцента работает только с миксом двух цветов.\n- Угол градиентного фона настраивается ползунком.\n- Градиентный фон рисуется одним слоем за всеми панелями.",
-    "en": "- Smooth installer animations.\n- The accent gradient works only with a two-color mix.\n- The background gradient angle is set with a slider.\n- The background gradient is drawn as one layer behind all panels."
+    "ru": "- Установщик в тёмной или светлой теме Windows.",
+    "en": "- The installer follows the Windows dark or light theme."
   },
   "file": "installer/LimCore-Setup.exe",
-  "size": 50534322,
-  "sha256": "b146c181666840f86a01ea86072e3fcbf79e9f158b841c4b32ec4de810b67989"
+  "size": 50533762,
+  "sha256": "649167057207c28a1d96988e54f487e66c3c89a788df2d757fe3500af057fd93"
 }
