@@ -1,11 +1,11 @@
 {
-  "version": "2.4.0",
+  "version": "2.4.1",
   "date": "2026-10-08",
   "notes": {
-    "ru": "- Исправлен автовыбор сервера: при сбоях сети ядро само переключается на рабочий сервер.\n- Новый установщик.\n- Добавлен выбор направления градиента фона.\n- Выбор одноцветной палитры выключает градиент акцента.\n- Исправлена обрезка содержимого страниц настроек по краям карточек.\n- Новые рекламные карточки.",
-    "en": "- Fixed automatic server selection: on network failures the core switches to a working server.\n- New installer.\n- Added the background gradient direction.\n- Choosing a single-color palette turns off the accent gradient.\n- Settings pages are clipped to the cards' rounded corners.\n- New promo cards."
+    "ru": "- Исправлен размер рекламной карточки.",
+    "en": "- Fixed the size of the promo card."
   },
   "file": "installer/LimCore-Setup.exe",
-  "size": 50456330,
-  "sha256": "fa8bf7e924199746f509ab280fa2d6b9e04d0799972e2cf9e0a18587229a6c48"
+  "size": 50456016,
+  "sha256": "55dadb4dfb86a30e79962a5081b42e701907bd7048b33e17c229a7b363dae591"
 }
