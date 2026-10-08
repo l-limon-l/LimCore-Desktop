@@ -1,11 +1,11 @@
 {
-  "version": "2.4.1",
+  "version": "2.4.2",
   "date": "2026-10-08",
   "notes": {
-    "ru": "- Исправлен размер рекламной карточки.",
-    "en": "- Fixed the size of the promo card."
+    "ru": "- Плавные анимации установщика.\n- Градиент акцента работает только с миксом двух цветов.\n- Угол градиентного фона настраивается ползунком.\n- Градиентный фон рисуется одним слоем за всеми панелями.",
+    "en": "- Smooth installer animations.\n- The accent gradient works only with a two-color mix.\n- The background gradient angle is set with a slider.\n- The background gradient is drawn as one layer behind all panels."
   },
   "file": "installer/LimCore-Setup.exe",
-  "size": 50456016,
-  "sha256": "55dadb4dfb86a30e79962a5081b42e701907bd7048b33e17c229a7b363dae591"
+  "size": 50534322,
+  "sha256": "b146c181666840f86a01ea86072e3fcbf79e9f158b841c4b32ec4de810b67989"
 }
