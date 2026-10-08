@@ -1,11 +1,11 @@
 {
-  "version": "2.4.4",
+  "version": "2.4.5",
   "date": "2026-10-08",
   "notes": {
-    "ru": "- Обновлены внутренние компоненты.",
-    "en": "- Internal components updated."
+    "ru": "- Новый деинсталлятор в стиле установщика.\n- Исправлен нечитаемый текст в окнах установки.",
+    "en": "- New uninstaller in the same style as the installer.\n- Fixed garbled text in setup dialogs."
   },
   "file": "installer/LimCore-Setup.exe",
-  "size": 50533858,
-  "sha256": "6d52c85df1a2e159d7ce1381ffff18200624b70d8defe00d2282bd196fff7693"
+  "size": 50527244,
+  "sha256": "6c28893acd168af184eed8c81438770051f272bea819760554ef78240b67ee60"
 }
