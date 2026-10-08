@@ -1,11 +1,11 @@
 {
-  "version": "2.4.3",
+  "version": "2.4.4",
   "date": "2026-10-08",
   "notes": {
-    "ru": "- Установщик в тёмной или светлой теме Windows.",
-    "en": "- The installer follows the Windows dark or light theme."
+    "ru": "- Обновлены внутренние компоненты.",
+    "en": "- Internal components updated."
   },
   "file": "installer/LimCore-Setup.exe",
-  "size": 50533762,
-  "sha256": "649167057207c28a1d96988e54f487e66c3c89a788df2d757fe3500af057fd93"
+  "size": 50533858,
+  "sha256": "6d52c85df1a2e159d7ce1381ffff18200624b70d8defe00d2282bd196fff7693"
 }
