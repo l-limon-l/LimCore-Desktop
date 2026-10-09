@@ -1,11 +1,11 @@
 {
-  "version": "2.4.8",
+  "version": "2.4.9",
   "date": "2026-10-09",
   "notes": {
-    "ru": "- Конфликтующее ПО проверяется и при открытии приложения.",
-    "en": "- Conflicting software is also checked when the app opens."
+    "ru": "- Исправлена проверка задержки для серверов, которые не открывают сайт проверки.\n- Исправлено автопереключение серверов в балансерах.",
+    "en": "- Fixed the delay test for servers that do not open the test site.\n- Fixed automatic server switching in balancers."
   },
   "file": "installer/LimCore-Setup.exe",
-  "size": 50578962,
-  "sha256": "ec25e9c071fe51df238d34bdd67520bbcfb6b3f7be05614be3c8d40418395fce"
+  "size": 50578472,
+  "sha256": "36e196610a27c497a0efb05d35144790a0fc55e599d8bc02c4f784332cf4e567"
 }
