@@ -1,11 +1,11 @@
 {
-  "version": "2.5.7",
+  "version": "2.5.8",
   "date": "2026-10-09",
   "notes": {
-    "ru": "- Добавлен переключатель системной рамки окна в настройках интерфейса.",
-    "en": "- Added a switch for the system window frame in the interface settings."
+    "ru": "Исправлен вылет при изменении профиля маршрутизации.",
+    "en": "Fixed a crash when editing a routing profile."
   },
   "file": "installer/LimCore-Setup.exe",
-  "size": 50558726,
-  "sha256": "a9918763983b65dc3a5b19c973c66c862d3fb50c514790220f65aaae821e02bc"
+  "size": 50559074,
+  "sha256": "b9beb5354d16aa2d1ad10480bbcb687801306d07612b173046fab62bc4b0359d"
 }
