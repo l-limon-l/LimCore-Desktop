@@ -1,11 +1,11 @@
 {
-  "version": "2.4.9",
+  "version": "2.5.7",
   "date": "2026-10-09",
   "notes": {
-    "ru": "- Исправлена проверка задержки для серверов, которые не открывают сайт проверки.\n- Исправлено автопереключение серверов в балансерах.",
-    "en": "- Fixed the delay test for servers that do not open the test site.\n- Fixed automatic server switching in balancers."
+    "ru": "- Добавлен переключатель системной рамки окна в настройках интерфейса.",
+    "en": "- Added a switch for the system window frame in the interface settings."
   },
   "file": "installer/LimCore-Setup.exe",
-  "size": 50578472,
-  "sha256": "36e196610a27c497a0efb05d35144790a0fc55e599d8bc02c4f784332cf4e567"
+  "size": 50558726,
+  "sha256": "a9918763983b65dc3a5b19c973c66c862d3fb50c514790220f65aaae821e02bc"
 }
