@@ -1,11 +1,11 @@
 {
-  "version": "2.4.7",
+  "version": "2.4.8",
   "date": "2026-10-09",
   "notes": {
-    "ru": "- Окно «Обнаружено конфликтующее ПО» при подключении: zapret, GoodbyeDPI, ByeDPI или SpoofDPI выгружаются одной кнопкой.\n- Исправлено ложное предупреждение о zapret после его закрытия.",
-    "en": "- \"Conflicting software detected\" window on connecting: zapret, GoodbyeDPI, ByeDPI or SpoofDPI are unloaded with one button.\n- Fixed a false zapret warning after it was closed."
+    "ru": "- Конфликтующее ПО проверяется и при открытии приложения.",
+    "en": "- Conflicting software is also checked when the app opens."
   },
   "file": "installer/LimCore-Setup.exe",
-  "size": 50577176,
-  "sha256": "c5754d574065ae8e490e6211fdd61380554aaa31eaf18a50b5e367b4b2878d39"
+  "size": 50578962,
+  "sha256": "ec25e9c071fe51df238d34bdd67520bbcfb6b3f7be05614be3c8d40418395fce"
 }
