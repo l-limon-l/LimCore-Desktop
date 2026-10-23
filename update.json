@@ -1,0 +1,11 @@
+{
+  "version": "2.6.16",
+  "date": "2026-10-24",
+  "notes": {
+    "ru": "- Исправлено: профиль маршрутизации с удалённым и локальным DNS мог не давать подключиться.",
+    "en": "- Fixed: a routing profile with both remote and domestic DNS could prevent connecting."
+  },
+  "file": "installer/LimCore-Setup.exe",
+  "size": 59862434,
+  "sha256": "7a7df6209f1aad37d76ef7b7b0b558443f6e23afda84c19392864138d8c8c57e"
+}
